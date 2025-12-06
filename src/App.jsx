@@ -12,5 +12,3 @@ export default function App() {
     </Routes>
   );
 }
-// test push from VS Code
-jj
